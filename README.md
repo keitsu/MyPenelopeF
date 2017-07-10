@@ -1,6 +1,3 @@
-# MyPenelopeF
-PCOO in Java
-
 
 <!DOCTYPE html>
 <html>
